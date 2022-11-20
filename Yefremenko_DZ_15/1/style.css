@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+#clock {
+  color: steelblue;
+}
+#clock button {
+  border-radius: 10px;
+  color: tomato;
+  background-color: #70809045;
+}
+#clock button:hover {
+  background-color: white;
+}
